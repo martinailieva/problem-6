@@ -1,0 +1,7 @@
+C:\Users\Marti\source\repos\Zadacha_6_Temerature\Zadacha_6_Temerature\bin\Debug\Zadacha_6_Temerature.exe.config
+C:\Users\Marti\source\repos\Zadacha_6_Temerature\Zadacha_6_Temerature\bin\Debug\Zadacha_6_Temerature.exe
+C:\Users\Marti\source\repos\Zadacha_6_Temerature\Zadacha_6_Temerature\bin\Debug\Zadacha_6_Temerature.pdb
+C:\Users\Marti\source\repos\Zadacha_6_Temerature\Zadacha_6_Temerature\obj\Debug\Zadacha_6_Temerature.csprojAssemblyReference.cache
+C:\Users\Marti\source\repos\Zadacha_6_Temerature\Zadacha_6_Temerature\obj\Debug\Zadacha_6_Temerature.csproj.CoreCompileInputs.cache
+C:\Users\Marti\source\repos\Zadacha_6_Temerature\Zadacha_6_Temerature\obj\Debug\Zadacha_6_Temerature.exe
+C:\Users\Marti\source\repos\Zadacha_6_Temerature\Zadacha_6_Temerature\obj\Debug\Zadacha_6_Temerature.pdb
